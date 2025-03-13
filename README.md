@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hi, my name is Marco, and I love surfing and travelling. I am currently studying applied Physics and Mathematics at NTNU.
+
+
 <!--
 **marcomosqueira/marcomosqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
