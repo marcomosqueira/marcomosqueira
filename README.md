@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Marco, and I love surfing and travelling. I am currently studying applied Physics and Mathematics at NTNU.
+Hi, my name is Marco, and and I am currently studying applied Physics and Mathematics at NTNU. I'm interested in statistical and numerical analysis, optimization, and just solving problems in general. I therefore love modelling real world problems using programming and mathematics, and with a physical framework. I'm going to specialize in Industrial Mathematics because I belive it's the best path for continuing to develop these skills. I also enjoy new experiences, which is why I love travelling and exploring new places. My favorite activity is probably surfing, but I also enjoy climbing, mountaineering, running, skiing and playing the piano.
 
 
 <!--
